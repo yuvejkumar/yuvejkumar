@@ -39,7 +39,7 @@
   <a href="https://leetcode.com/yuvej_kumar/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode" />
   </a>
-  <a href="https://github.com/yuvej-kumar">
+  <a href="https://github.com/yuvejkumar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
   </a>
   <a href="https://www.youtube.com/@yuvejkumar">
