@@ -36,7 +36,7 @@
 
 ### 🔗 Connect with Me  
 <p align="center">
-  <a href="https://leetcode.com/yuvej_kumar/">
+  <a href="https://leetcode.com/yuvejkumar/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode" />
   </a>
   <a href="https://github.com/yuvejkumar">
