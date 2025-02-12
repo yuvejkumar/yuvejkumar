@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 - 🌱 Exploring **Data Structures & Algorithms**  
-- 🏆 **LeetCode:** [yuvej_kumar](https://leetcode.com/yuvej_kumar/)  
+- 🏆 **LeetCode:** [yuvej_kumar](https://leetcode.com/yuvejkumar/)  
 - ⚡ **Fun Fact:** I love EEE & exploring hardware!  
 
 ---
