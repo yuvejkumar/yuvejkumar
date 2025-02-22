@@ -29,7 +29,7 @@
 
   ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,vscode,arduino,mysql,matlab,git,c,cpp" />
 </p>
 
 ---
